@@ -1,4 +1,4 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://github.com/Mayankdubey10)
+![logo]([https://github.com/deepanshurana16/deepanshurana16/blob/main/Screenshot%202023-08-21%20at%205.22.43%20PM.png](https://github.com/Mayankdubey10/Mayankdubey10/blob/main/Blue%20and%20White%20Abstract%20Technology%20LinkedIn%20Banner%20(2).png))
 <h1 align="center">Hi 👋, I'm Mayank Dubey</h1>
 <h3 align="center">A passionate Full Stack developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/116207...">
